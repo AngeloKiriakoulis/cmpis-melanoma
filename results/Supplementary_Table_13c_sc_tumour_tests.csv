@@ -1,0 +1,41 @@
+"dataset","level","x","y","n","rho","p","fdr"
+"Tirosh","tumour","CSdiff_int","Dedifferentiated",10,-0.733333333333333,0.0158005962505715,0.0948035775034291
+"Tirosh","tumour","CSdiff_int","Melanocytic",10,0.975757575757576,1.46754618740424e-06,4.40263856221273e-05
+"Tirosh","tumour","CSdiff_int","DedifMinusMelan",10,-0.927272727272727,0.000112034506393976,0.00168051759590964
+"Tirosh","tumour","CSdiff_int","CD8_frac",8,0.523809523809524,0.182720750539715,0.609069168465716
+"Tirosh","tumour","CSdiff_int","Tcell_frac",8,-0.359287878573978,0.382064677364986,0.750671603102512
+"Tirosh","tumour","CSdiff_int","WNT",10,0.563636363636364,0.0897240283170913,0.384531549930391
+"Tirosh","tumour","CSdiff_int","PCD",10,0.163636363636364,0.651477342796243,0.781772811355491
+"Tirosh","tumour","CMPIS","CD8_frac",8,-0.0476190476190476,0.910849168519584,0.966054803994686
+"Tirosh","tumour","CMPIS","Tcell_frac",8,0.131738888810459,0.755832636259335,0.872114580299233
+"Tirosh","tumour","CMPIS","Dedifferentiated",10,-0.0424242424242424,0.907363817812816,0.966054803994686
+"Tirosh","tumour","CMPIS","Melanocytic",10,-0.212121212121212,0.55630577510293,0.750671603102512
+"Tirosh","tumour","WNT","PCD",10,-0.309090909090909,0.384841230261283,0.750671603102512
+"Tirosh","tumour","WNT","CD8_frac",8,0.30952380952381,0.455644890737582,0.750671603102512
+"Tirosh","tumour","PCD","CD8_frac",8,-0.261904761904762,0.530922861565801,0.750671603102512
+"Tirosh","tumour","CSdiff_int","CMPIS",10,-0.272727272727273,0.445838341542751,0.750671603102512
+"Tirosh","within-tumour (malignant cells)","CSdiff_int","Dedifferentiated",9,-0.180663594470046,0.00390625,0.01953125
+"Tirosh","within-tumour (malignant cells)","CSdiff_int","Melanocytic",9,0.607681088964511,0.00390625,0.01953125
+"Tirosh","within-tumour (malignant cells)","WNT","PCD",9,0.115811716045497,0.0390625,0.0651041666666667
+"Tirosh","within-tumour (malignant cells)","CMPIS","PCD",9,0.0850541186885688,0.07421875,0.0927734375
+"Tirosh","within-tumour (malignant cells)","CMPIS","Dedifferentiated",9,-0.0604972567539412,0.0390625,0.0651041666666667
+"Jerby-Arnon","tumour","CSdiff_int","Dedifferentiated",9,0.6,0.0876228290414023,0.384531549930391
+"Jerby-Arnon","tumour","CSdiff_int","Melanocytic",9,0.883333333333333,0.00159050042349787,0.011928753176234
+"Jerby-Arnon","tumour","CSdiff_int","DedifMinusMelan",9,-0.883333333333333,0.00159050042349787,0.011928753176234
+"Jerby-Arnon","tumour","CSdiff_int","CD8_frac",9,0.283333333333333,0.46003032896572,0.750671603102512
+"Jerby-Arnon","tumour","CSdiff_int","Tcell_frac",9,0.266666666666667,0.487922274838701,0.750671603102512
+"Jerby-Arnon","tumour","CSdiff_int","WNT",9,0.316666666666667,0.406397014486386,0.750671603102512
+"Jerby-Arnon","tumour","CSdiff_int","PCD",9,0.2,0.605901274179553,0.757376592724442
+"Jerby-Arnon","tumour","CMPIS","CD8_frac",9,-0.25,0.516489552301226,0.750671603102512
+"Jerby-Arnon","tumour","CMPIS","Tcell_frac",9,0.0166666666666667,0.966054803994686,0.966054803994686
+"Jerby-Arnon","tumour","CMPIS","Dedifferentiated",9,-0.4,0.286105101908313,0.750671603102512
+"Jerby-Arnon","tumour","CMPIS","Melanocytic",9,0.0166666666666667,0.966054803994686,0.966054803994686
+"Jerby-Arnon","tumour","WNT","PCD",9,0.216666666666667,0.575514895711926,0.750671603102512
+"Jerby-Arnon","tumour","WNT","CD8_frac",9,0.4,0.286105101908313,0.750671603102512
+"Jerby-Arnon","tumour","PCD","CD8_frac",9,0.5,0.170470660787054,0.609069168465716
+"Jerby-Arnon","tumour","CSdiff_int","CMPIS",9,-0.216666666666667,0.575514895711925,0.750671603102512
+"Jerby-Arnon","within-tumour (malignant cells)","CSdiff_int","Dedifferentiated",7,-0.136335836109592,0.03125,0.0651041666666667
+"Jerby-Arnon","within-tumour (malignant cells)","CSdiff_int","Melanocytic",7,0.259844449317047,0.046875,0.0669642857142857
+"Jerby-Arnon","within-tumour (malignant cells)","WNT","PCD",7,0.0900841671784127,0.015625,0.0520833333333333
+"Jerby-Arnon","within-tumour (malignant cells)","CMPIS","PCD",7,0.100111354713668,0.46875,0.46875
+"Jerby-Arnon","within-tumour (malignant cells)","CMPIS","Dedifferentiated",7,-0.0533024063322568,0.109375,0.121527777777778

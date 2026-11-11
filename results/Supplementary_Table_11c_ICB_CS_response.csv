@@ -1,0 +1,6 @@
+"cohort","label","treatment","CS1_n","CS1_resp","CS1_rate","CS2_n","CS2_resp","CS2_rate","OR_CS1_vs_CS2","OR_lo","OR_hi","fisher_p","OS_logrank_p_CS","PFS_logrank_p_CS"
+"Liu2019","Liu 2019 (Van Allen lab)","anti-PD-1",62,22,0.355,60,26,0.433,0.721,0.325,1.59,0.459,0.352,0.84
+"Riaz2017","Riaz 2017","nivolumab",26,7,0.269,23,3,0.13,2.41,0.464,16.6,0.299,0.188,NA
+"Hugo2016","Hugo 2016","pembrolizumab",16,7,0.438,10,7,0.7,0.348,0.0419,2.27,0.248,0.206,NA
+"Gide2019","Gide 2019","anti-PD-1 (monotherapy)",23,9,0.391,18,10,0.556,0.523,0.123,2.13,0.355,0.671,0.616
+"VanAllen2015","Van Allen 2015 (anti-CTLA-4)","ipilimumab (anti-CTLA-4)",22,3,0.136,17,4,0.235,0.522,0.0652,3.66,0.677,0.113,0.176

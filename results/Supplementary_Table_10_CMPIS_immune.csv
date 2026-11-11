@@ -1,0 +1,4 @@
+"variable","n","median_Low","median_High","wilcox_p","spearman_rho_vs_CMPIS"
+"TMB",302,13.2,11.9,0.308,-0.022
+"Antigen_presentation",303,1.05,0.861,1.13e-11,-0.467
+"Immune_evasion_proxy",303,0.262,-0.262,5.82e-17,-0.558

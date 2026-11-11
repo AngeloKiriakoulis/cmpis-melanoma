@@ -1,0 +1,16 @@
+level	CS1	CS2	p	test	sig
+n		   298	   147			NA
+fustat (%)	0	   159 (53.4) 	    73 (49.7) 	 0.527		
+	1	   139 (46.6) 	    74 (50.3) 			NA
+futime (median [IQR])		854.00 [417.00, 2030.00]	769.00 [427.50, 1473.50]	 0.152	nonnorm	
+pstage (%)	TX	    31 (11.2) 	    15 (10.8) 	 0.240	exact	
+	Ti	     5 ( 1.8) 	     3 ( 2.2) 			NA
+	T0	    18 ( 6.5) 	     5 ( 3.6) 			NA
+	T1	    23 ( 8.3) 	    14 (10.1) 			NA
+	T2	    59 (21.2) 	    19 (13.7) 			NA
+	T3	    57 (20.5) 	    26 (18.7) 			NA
+	T4	    85 (30.6) 	    57 (41.0) 			NA
+age 		 57.26 ± 15.80	 61.37 ± 14.96	 0.008		**
+tumor_type (%)	Additional Metastatic	     0 ( 0.0) 	     1 ( 0.7) 	 0.330		
+	Metastatic	   236 (79.2) 	   113 (76.9) 			NA
+	Primary solid Tumor	    62 (20.8) 	    33 (22.4) 			NA

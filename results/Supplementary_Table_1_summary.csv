@@ -1,0 +1,6 @@
+"Pathway","Core_source","Core_n","Core_in_2682"
+"Apoptosis","KEGG hsa04210",138,105
+"Ferroptosis","KEGG hsa04216",42,40
+"Pyroptosis","Ye et al. 2021 (33-gene)",33,29
+"Necroptosis","KEGG hsa04217",168,98
+"Autophagy","KEGG hsa04140",168,111

@@ -1,0 +1,1087 @@
+"dataset","direction","partner","pair","n","rho","p","fdr"
+"Tirosh","malignant -> partner","T cell","ALL (summed)",8,0.19047619047619,0.651401495702482,NA
+"Tirosh","partner -> malignant","T cell","ALL (summed)",8,0.380952380952381,0.351812553117565,NA
+"Tirosh","malignant -> partner","NK","ALL (summed)",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","ALL (summed)",1,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","ALL (summed)",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","ALL (summed)",3,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","ALL (summed)",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","ALL (summed)",1,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","ALL (summed)",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","ALL (summed)",2,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","ALL (summed)",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","ALL (summed)",4,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","T cell","ALL (summed)",9,0.533333333333333,0.139226867543978,NA
+"Jerby-Arnon","partner -> malignant","T cell","ALL (summed)",9,0.2,0.605901274179553,NA
+"Jerby-Arnon","malignant -> partner","NK","ALL (summed)",0,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","NK","ALL (summed)",0,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","Macrophage","ALL (summed)",5,0.5,0.391002218955771,NA
+"Jerby-Arnon","partner -> malignant","Macrophage","ALL (summed)",5,0.4,0.504631575468691,NA
+"Jerby-Arnon","malignant -> partner","CAF","ALL (summed)",0,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","CAF","ALL (summed)",0,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","Endothelial","ALL (summed)",0,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","Endothelial","ALL (summed)",0,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","B cell","ALL (summed)",5,0.7,0.188120404374187,NA
+"Jerby-Arnon","partner -> malignant","B cell","ALL (summed)",5,-0.1,0.872888571569538,NA
+"Tirosh","malignant -> partner","T cell","CXCL9-CXCR3",8,0.43915503282684,0.276326840133745,0.582260127424678
+"Tirosh","malignant -> partner","T cell","CXCL10-CXCR3",8,0.404761904761905,0.319888641228816,0.610498253939304
+"Tirosh","malignant -> partner","T cell","CXCL11-CXCR3",8,0.7319250547114,0.0389982739878224,0.305018411640652
+"Tirosh","malignant -> partner","T cell","CCL5-CCR5",8,0.0238095238095238,0.955374011815881,0.955374011815881
+"Tirosh","malignant -> partner","T cell","CCL4-CCR5",8,-0.19047619047619,0.651401495702482,0.817716771200988
+"Tirosh","malignant -> partner","T cell","CCL3-CCR5",8,-0.142857142857143,0.735764859879812,0.87529403025533
+"Tirosh","malignant -> partner","T cell","CCL2-CCR2",8,-0.238095238095238,0.570156320815768,0.782307509956519
+"Tirosh","malignant -> partner","T cell","CCL19-CCR7",8,0.514370741270553,0.192165912271177,0.453511552959977
+"Tirosh","malignant -> partner","T cell","CCL21-CCR7",8,0.381881307912987,0.350540724872591,0.610498253939304
+"Tirosh","malignant -> partner","T cell","CXCL12-CXCR4",8,-0.463713016751484,0.247137817184,0.540041896809481
+"Tirosh","malignant -> partner","T cell","CXCL13-CXCR5",8,0.119047619047619,0.77888572605238,0.877002057522772
+"Tirosh","malignant -> partner","T cell","CXCL16-CXCR6",8,-0.380952380952381,0.351812553117565,0.610498253939304
+"Tirosh","malignant -> partner","T cell","CX3CL1-CX3CR1",8,0.195180014589707,0.64322553863723,0.817716771200988
+"Tirosh","malignant -> partner","T cell","CD274-PDCD1",8,0.714285714285714,0.0465282322841672,0.305018411640652
+"Tirosh","malignant -> partner","T cell","PDCD1LG2-PDCD1",8,0.114152915122164,0.787815407605202,0.877002057522772
+"Tirosh","malignant -> partner","T cell","CD80-CTLA4",8,0.748335776911966,0.032705171654771,0.305018411640652
+"Tirosh","malignant -> partner","T cell","CD86-CTLA4",8,0.7319250547114,0.0389982739878224,0.305018411640652
+"Tirosh","malignant -> partner","T cell","CD80-CD28",8,0.722968462440373,0.0427210894669646,0.305018411640652
+"Tirosh","malignant -> partner","T cell","CD86-CD28",8,0.756322556535113,0.0298843788121788,0.305018411640652
+"Tirosh","malignant -> partner","T cell","PVR-TIGIT",8,-0.571428571428572,0.138959957160706,0.43657229890701
+"Tirosh","malignant -> partner","T cell","LGALS9-HAVCR2",8,-0.261904761904762,0.530922861565801,0.764010947131275
+"Tirosh","malignant -> partner","T cell","CD70-CD27",8,-0.536745040121693,0.170189201268834,0.43657229890701
+"Tirosh","malignant -> partner","T cell","TNFSF9-TNFRSF9",8,0.0476190476190476,0.910849168519584,0.926553464528542
+"Tirosh","malignant -> partner","T cell","TNFSF4-TNFRSF4",8,-0.263477777620917,0.528366470576909,0.764010947131275
+"Tirosh","malignant -> partner","T cell","HLA-E-KLRC1",8,0.547619047619048,0.160025642538896,0.43657229890701
+"Tirosh","malignant -> partner","T cell","HLA-E-KLRD1",8,0.690476190476191,0.0579903181645727,0.342142877170979
+"Tirosh","malignant -> partner","T cell","CD40LG-CD40",8,0.570764575610821,0.139525273332024,0.43657229890701
+"Tirosh","malignant -> partner","T cell","IFNG-IFNGR1",8,0.646866519025597,0.082993624633694,0.349758846670568
+"Tirosh","malignant -> partner","T cell","IFNG-IFNGR2",8,0.849805034798334,0.00754494183134958,0.148383856016542
+"Tirosh","malignant -> partner","T cell","TNF-TNFRSF1A",8,-0.383240403812243,0.348683741124201,0.610498253939304
+"Tirosh","malignant -> partner","T cell","TGFB1-TGFBR1",8,-0.37126414119311,0.365202058019778,0.615626326376197
+"Tirosh","malignant -> partner","T cell","TGFB1-TGFBR2",8,-0.227548989763519,0.587844564501082,0.788246120580996
+"Tirosh","malignant -> partner","T cell","TGFB2-TGFBR2",8,-0.547619047619048,0.160025642538896,0.43657229890701
+"Tirosh","malignant -> partner","T cell","IL6-IL6R",8,0.139520229593756,0.741774601911297,0.87529403025533
+"Tirosh","malignant -> partner","T cell","IL10-IL10RA",8,0.904761904761905,0.00200827550542945,0.0592441274101689
+"Tirosh","malignant -> partner","T cell","VEGFA-KDR",8,0.179643939286989,0.670344277246939,0.823964840782696
+"Tirosh","malignant -> partner","T cell","VEGFA-FLT1",8,-0.523809523809524,0.182720750539715,0.449188511743466
+"Tirosh","malignant -> partner","T cell","CSF1-CSF1R",8,-0.0958101009530607,0.821452403250453,0.882324006945692
+"Tirosh","malignant -> partner","T cell","IL34-CSF1R",8,0.268372520060847,0.520440977682338,0.764010947131275
+"Tirosh","malignant -> partner","T cell","MIF-CD74",8,0.571428571428572,0.138959957160707,0.43657229890701
+"Tirosh","malignant -> partner","T cell","MIF-CXCR4",8,0.0952380952380952,0.822505430203611,0.882324006945692
+"Tirosh","malignant -> partner","T cell","MDK-LRP1",8,0.503003030003569,0.203876682008432,0.462643239942211
+"Tirosh","malignant -> partner","T cell","SPP1-CD44",8,-0.380952380952381,0.351812553117565,0.610498253939304
+"Tirosh","malignant -> partner","T cell","SPP1-ITGAV",8,-0.0714285714285714,0.866526270675909,0.896930701225941
+"Tirosh","malignant -> partner","T cell","WNT5A-FZD5",8,0.654653670707977,0.0781407494112157,0.349758846670568
+"Tirosh","malignant -> partner","T cell","WNT5A-ROR2",8,0.654653670707977,0.0781407494112157,0.349758846670568
+"Tirosh","malignant -> partner","T cell","FASLG-FAS",8,0.583448232846617,0.128946630491157,0.43657229890701
+"Tirosh","malignant -> partner","T cell","TNFSF10-TNFRSF10B",8,-0.0714285714285714,0.866526270675909,0.896930701225941
+"Tirosh","malignant -> partner","T cell","TNFSF10-TNFRSF10A",8,0.261904761904762,0.530922861565801,0.764010947131275
+"Tirosh","malignant -> partner","T cell","ICAM1-ITGB2",8,-0.214285714285714,0.610344415645267,0.800229344957127
+"Tirosh","malignant -> partner","T cell","ICAM1-ITGAL",8,-0.119047619047619,0.77888572605238,0.877002057522772
+"Tirosh","malignant -> partner","T cell","VCAM1-ITGA4",8,-0.547619047619048,0.160025642538896,0.43657229890701
+"Tirosh","malignant -> partner","T cell","VCAM1-ITGB1",8,-0.357142857142857,0.385120643556256,0.631169943606087
+"Tirosh","malignant -> partner","T cell","GAS6-AXL",8,0.536745040121693,0.170189201268834,0.43657229890701
+"Tirosh","malignant -> partner","T cell","PROS1-AXL",8,0.380952380952381,0.351812553117565,0.610498253939304
+"Tirosh","malignant -> partner","T cell","HGF-MET",8,-0.30004959907449,0.470261740655634,0.74987682969412
+"Tirosh","malignant -> partner","T cell","PDGFB-PDGFRB",8,0.654653670707977,0.0781407494112157,0.349758846670568
+"Tirosh","malignant -> partner","T cell","ANXA1-FPR1",8,0.243975018237133,0.560375584963329,0.782307509956519
+"Tirosh","malignant -> partner","T cell","LGALS3-LAG3",8,0.904761904761905,0.00200827550542945,0.0592441274101689
+"Tirosh","partner -> malignant","T cell","CXCL9-CXCR3",8,0.577350269189626,0.133974596215561,0.545467998877642
+"Tirosh","partner -> malignant","T cell","CXCL10-CXCR3",8,NA,NA,NA
+"Tirosh","partner -> malignant","T cell","CXCL11-CXCR3",8,0.654653670707977,0.0781407494112157,0.545467998877642
+"Tirosh","partner -> malignant","T cell","CCL5-CCR5",8,-0.215622173008532,0.608064773895001,0.936748435459866
+"Tirosh","partner -> malignant","T cell","CCL4-CCR5",8,-0.215622173008532,0.608064773895001,0.936748435459866
+"Tirosh","partner -> malignant","T cell","CCL3-CCR5",8,-0.114152915122164,0.787815407605202,0.946258526854759
+"Tirosh","partner -> malignant","T cell","CCL2-CCR2",8,0.514370741270553,0.192165912271177,0.683586522028272
+"Tirosh","partner -> malignant","T cell","CCL19-CCR7",8,NA,NA,NA
+"Tirosh","partner -> malignant","T cell","CCL21-CCR7",8,0.412393049421161,0.309958735506241,0.78399559581095
+"Tirosh","partner -> malignant","T cell","CXCL12-CXCR4",8,0.3659625273557,0.372624727024495,0.78399559581095
+"Tirosh","partner -> malignant","T cell","CXCL13-CXCR5",8,0.756322556535113,0.0298843788121788,0.516812844393401
+"Tirosh","partner -> malignant","T cell","CXCL16-CXCR6",8,0.428571428571429,0.28940322484679,0.78399559581095
+"Tirosh","partner -> malignant","T cell","CX3CL1-CX3CR1",8,0.247435829652697,0.554646423221937,0.903281317818583
+"Tirosh","partner -> malignant","T cell","CD274-PDCD1",8,-0.0838338383339281,0.84354649233283,0.946258526854759
+"Tirosh","partner -> malignant","T cell","PDCD1LG2-PDCD1",8,0.7319250547114,0.0389982739878224,0.516812844393401
+"Tirosh","partner -> malignant","T cell","CD80-CTLA4",8,-0.07319250547114,0.863253392920131,0.946258526854759
+"Tirosh","partner -> malignant","T cell","CD86-CTLA4",8,0.697601147968781,0.0544013520414106,0.516812844393401
+"Tirosh","partner -> malignant","T cell","CD80-CD28",8,-0.107786363572193,0.79946042661842,0.946258526854759
+"Tirosh","partner -> malignant","T cell","CD86-CD28",8,0.898219696434944,0.00243879679638235,0.139011417393794
+"Tirosh","partner -> malignant","T cell","PVR-TIGIT",8,-0.333333333333333,0.419753086419753,0.790855836657625
+"Tirosh","partner -> malignant","T cell","LGALS9-HAVCR2",8,0.333333333333333,0.419753086419753,0.790855836657625
+"Tirosh","partner -> malignant","T cell","CD70-CD27",8,0,1,1
+"Tirosh","partner -> malignant","T cell","TNFSF9-TNFRSF9",8,0.357142857142857,0.385120643556256,0.78399559581095
+"Tirosh","partner -> malignant","T cell","TNFSF4-TNFRSF4",8,-0.58554004376912,0.127246589863721,0.545467998877642
+"Tirosh","partner -> malignant","T cell","HLA-E-KLRC1",8,-0.583448232846617,0.128946630491157,0.545467998877642
+"Tirosh","partner -> malignant","T cell","HLA-E-KLRD1",8,0.714285714285714,0.0465282322841672,0.516812844393401
+"Tirosh","partner -> malignant","T cell","CD40LG-CD40",8,-0.0243975018237133,0.95427283374209,0.990114884972822
+"Tirosh","partner -> malignant","T cell","IFNG-IFNGR1",8,0.261904761904762,0.530922861565801,0.890076562036785
+"Tirosh","partner -> malignant","T cell","IFNG-IFNGR2",8,0.0238095238095238,0.955374011815881,0.990114884972822
+"Tirosh","partner -> malignant","T cell","TNF-TNFRSF1A",8,-0.595238095238095,0.119529806138793,0.545467998877642
+"Tirosh","partner -> malignant","T cell","TGFB1-TGFBR1",8,-0.166666666666667,0.693238811728395,0.946258526854759
+"Tirosh","partner -> malignant","T cell","TGFB1-TGFBR2",8,-0.261904761904762,0.530922861565801,0.890076562036785
+"Tirosh","partner -> malignant","T cell","TGFB2-TGFBR2",8,0.646866519025597,0.082993624633694,0.545467998877642
+"Tirosh","partner -> malignant","T cell","IL6-IL6R",8,0.0935219529582824,0.825666125667639,0.946258526854759
+"Tirosh","partner -> malignant","T cell","IL10-IL10RA",8,0.317167523708273,0.443989241632351,0.790855836657625
+"Tirosh","partner -> malignant","T cell","VEGFA-KDR",8,-0.395216666431375,0.332517107933828,0.78399559581095
+"Tirosh","partner -> malignant","T cell","VEGFA-FLT1",8,-0.32335909071658,0.434639448550857,0.790855836657625
+"Tirosh","partner -> malignant","T cell","CSF1-CSF1R",8,-0.07319250547114,0.863253392920131,0.946258526854759
+"Tirosh","partner -> malignant","T cell","IL34-CSF1R",8,0.436435780471985,0.279658290904658,0.78399559581095
+"Tirosh","partner -> malignant","T cell","MIF-CD74",8,0.380952380952381,0.351812553117565,0.78399559581095
+"Tirosh","partner -> malignant","T cell","MIF-CXCR4",8,-0.166666666666667,0.693238811728395,0.946258526854759
+"Tirosh","partner -> malignant","T cell","MDK-LRP1",8,0.561142541945407,0.14786012226894,0.561868464621971
+"Tirosh","partner -> malignant","T cell","SPP1-CD44",8,0.622765656194895,0.0991008078235344,0.545467998877642
+"Tirosh","partner -> malignant","T cell","SPP1-ITGAV",8,0.359287878573978,0.382064677364986,0.78399559581095
+"Tirosh","partner -> malignant","T cell","WNT5A-FZD5",8,0.0887856006505722,0.834399787973479,0.946258526854759
+"Tirosh","partner -> malignant","T cell","WNT5A-ROR2",8,0.577350269189626,0.133974596215561,0.545467998877642
+"Tirosh","partner -> malignant","T cell","FASLG-FAS",8,0.19047619047619,0.651401495702482,0.946258526854759
+"Tirosh","partner -> malignant","T cell","TNFSF10-TNFRSF10B",8,-0.476190476190476,0.232935534650098,0.698806603950293
+"Tirosh","partner -> malignant","T cell","TNFSF10-TNFRSF10A",8,-0.0238095238095238,0.955374011815881,0.990114884972822
+"Tirosh","partner -> malignant","T cell","ICAM1-ITGB2",8,0.0952380952380952,0.822505430203611,0.946258526854759
+"Tirosh","partner -> malignant","T cell","ICAM1-ITGAL",8,0.0952380952380952,0.822505430203611,0.946258526854759
+"Tirosh","partner -> malignant","T cell","VCAM1-ITGA4",8,0.476190476190476,0.232935534650098,0.698806603950293
+"Tirosh","partner -> malignant","T cell","VCAM1-ITGB1",8,0,1,1
+"Tirosh","partner -> malignant","T cell","GAS6-AXL",8,0.119047619047619,0.77888572605238,0.946258526854759
+"Tirosh","partner -> malignant","T cell","PROS1-AXL",8,0.714285714285714,0.0465282322841672,0.516812844393401
+"Tirosh","partner -> malignant","T cell","HGF-MET",8,0.380509717073881,0.352419362294093,0.78399559581095
+"Tirosh","partner -> malignant","T cell","PDGFB-PDGFRB",8,-0.109108945117996,0.797038574188192,0.946258526854759
+"Tirosh","partner -> malignant","T cell","ANXA1-FPR1",8,-0.195180014589707,0.64322553863723,0.946258526854759
+"Tirosh","partner -> malignant","T cell","LGALS3-LAG3",8,0.503003030003569,0.203876682008432,0.683586522028272
+"Tirosh","malignant -> partner","NK","CXCL9-CXCR3",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CXCL10-CXCR3",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CXCL11-CXCR3",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CCL5-CCR5",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CCL4-CCR5",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CCL3-CCR5",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CCL2-CCR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CCL19-CCR7",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CCL21-CCR7",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CXCL12-CXCR4",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CXCL13-CXCR5",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CXCL16-CXCR6",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CX3CL1-CX3CR1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CD274-PDCD1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","PDCD1LG2-PDCD1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CD80-CTLA4",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CD86-CTLA4",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CD80-CD28",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CD86-CD28",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","PVR-TIGIT",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","LGALS9-HAVCR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CD70-CD27",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","TNFSF9-TNFRSF9",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","TNFSF4-TNFRSF4",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","HLA-E-KLRC1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","HLA-E-KLRD1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CD40LG-CD40",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","IFNG-IFNGR1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","IFNG-IFNGR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","TNF-TNFRSF1A",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","TGFB1-TGFBR1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","TGFB1-TGFBR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","TGFB2-TGFBR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","IL6-IL6R",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","IL10-IL10RA",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","VEGFA-KDR",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","VEGFA-FLT1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","CSF1-CSF1R",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","IL34-CSF1R",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","MIF-CD74",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","MIF-CXCR4",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","MDK-LRP1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","SPP1-CD44",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","SPP1-ITGAV",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","WNT5A-FZD5",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","WNT5A-ROR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","FASLG-FAS",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","TNFSF10-TNFRSF10B",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","TNFSF10-TNFRSF10A",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","ICAM1-ITGB2",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","ICAM1-ITGAL",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","VCAM1-ITGA4",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","VCAM1-ITGB1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","GAS6-AXL",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","PROS1-AXL",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","HGF-MET",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","PDGFB-PDGFRB",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","ANXA1-FPR1",1,NA,NA,NA
+"Tirosh","malignant -> partner","NK","LGALS3-LAG3",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CXCL9-CXCR3",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CXCL10-CXCR3",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CXCL11-CXCR3",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CCL5-CCR5",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CCL4-CCR5",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CCL3-CCR5",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CCL2-CCR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CCL19-CCR7",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CCL21-CCR7",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CXCL12-CXCR4",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CXCL13-CXCR5",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CXCL16-CXCR6",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CX3CL1-CX3CR1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CD274-PDCD1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","PDCD1LG2-PDCD1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CD80-CTLA4",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CD86-CTLA4",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CD80-CD28",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CD86-CD28",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","PVR-TIGIT",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","LGALS9-HAVCR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CD70-CD27",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","TNFSF9-TNFRSF9",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","TNFSF4-TNFRSF4",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","HLA-E-KLRC1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","HLA-E-KLRD1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CD40LG-CD40",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","IFNG-IFNGR1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","IFNG-IFNGR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","TNF-TNFRSF1A",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","TGFB1-TGFBR1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","TGFB1-TGFBR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","TGFB2-TGFBR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","IL6-IL6R",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","IL10-IL10RA",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","VEGFA-KDR",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","VEGFA-FLT1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","CSF1-CSF1R",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","IL34-CSF1R",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","MIF-CD74",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","MIF-CXCR4",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","MDK-LRP1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","SPP1-CD44",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","SPP1-ITGAV",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","WNT5A-FZD5",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","WNT5A-ROR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","FASLG-FAS",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","TNFSF10-TNFRSF10B",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","TNFSF10-TNFRSF10A",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","ICAM1-ITGB2",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","ICAM1-ITGAL",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","VCAM1-ITGA4",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","VCAM1-ITGB1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","GAS6-AXL",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","PROS1-AXL",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","HGF-MET",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","PDGFB-PDGFRB",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","ANXA1-FPR1",1,NA,NA,NA
+"Tirosh","partner -> malignant","NK","LGALS3-LAG3",1,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CXCL9-CXCR3",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CXCL10-CXCR3",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CXCL11-CXCR3",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CCL5-CCR5",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CCL4-CCR5",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CCL3-CCR5",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CCL2-CCR2",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CCL19-CCR7",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CCL21-CCR7",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CXCL12-CXCR4",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CXCL13-CXCR5",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CXCL16-CXCR6",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CX3CL1-CX3CR1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CD274-PDCD1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","PDCD1LG2-PDCD1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CD80-CTLA4",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CD86-CTLA4",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CD80-CD28",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CD86-CD28",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","PVR-TIGIT",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","LGALS9-HAVCR2",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CD70-CD27",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","TNFSF9-TNFRSF9",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","TNFSF4-TNFRSF4",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","HLA-E-KLRC1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","HLA-E-KLRD1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CD40LG-CD40",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","IFNG-IFNGR1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","IFNG-IFNGR2",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","TNF-TNFRSF1A",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","TGFB1-TGFBR1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","TGFB1-TGFBR2",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","TGFB2-TGFBR2",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","IL6-IL6R",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","IL10-IL10RA",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","VEGFA-KDR",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","VEGFA-FLT1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","CSF1-CSF1R",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","IL34-CSF1R",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","MIF-CD74",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","MIF-CXCR4",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","MDK-LRP1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","SPP1-CD44",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","SPP1-ITGAV",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","WNT5A-FZD5",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","WNT5A-ROR2",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","FASLG-FAS",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","TNFSF10-TNFRSF10B",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","TNFSF10-TNFRSF10A",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","ICAM1-ITGB2",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","ICAM1-ITGAL",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","VCAM1-ITGA4",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","VCAM1-ITGB1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","GAS6-AXL",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","PROS1-AXL",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","HGF-MET",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","PDGFB-PDGFRB",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","ANXA1-FPR1",3,NA,NA,NA
+"Tirosh","malignant -> partner","Macrophage","LGALS3-LAG3",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CXCL9-CXCR3",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CXCL10-CXCR3",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CXCL11-CXCR3",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CCL5-CCR5",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CCL4-CCR5",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CCL3-CCR5",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CCL2-CCR2",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CCL19-CCR7",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CCL21-CCR7",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CXCL12-CXCR4",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CXCL13-CXCR5",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CXCL16-CXCR6",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CX3CL1-CX3CR1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CD274-PDCD1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","PDCD1LG2-PDCD1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CD80-CTLA4",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CD86-CTLA4",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CD80-CD28",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CD86-CD28",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","PVR-TIGIT",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","LGALS9-HAVCR2",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CD70-CD27",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","TNFSF9-TNFRSF9",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","TNFSF4-TNFRSF4",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","HLA-E-KLRC1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","HLA-E-KLRD1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CD40LG-CD40",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","IFNG-IFNGR1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","IFNG-IFNGR2",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","TNF-TNFRSF1A",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","TGFB1-TGFBR1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","TGFB1-TGFBR2",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","TGFB2-TGFBR2",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","IL6-IL6R",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","IL10-IL10RA",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","VEGFA-KDR",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","VEGFA-FLT1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","CSF1-CSF1R",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","IL34-CSF1R",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","MIF-CD74",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","MIF-CXCR4",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","MDK-LRP1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","SPP1-CD44",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","SPP1-ITGAV",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","WNT5A-FZD5",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","WNT5A-ROR2",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","FASLG-FAS",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","TNFSF10-TNFRSF10B",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","TNFSF10-TNFRSF10A",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","ICAM1-ITGB2",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","ICAM1-ITGAL",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","VCAM1-ITGA4",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","VCAM1-ITGB1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","GAS6-AXL",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","PROS1-AXL",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","HGF-MET",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","PDGFB-PDGFRB",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","ANXA1-FPR1",3,NA,NA,NA
+"Tirosh","partner -> malignant","Macrophage","LGALS3-LAG3",3,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CXCL9-CXCR3",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CXCL10-CXCR3",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CXCL11-CXCR3",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CCL5-CCR5",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CCL4-CCR5",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CCL3-CCR5",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CCL2-CCR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CCL19-CCR7",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CCL21-CCR7",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CXCL12-CXCR4",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CXCL13-CXCR5",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CXCL16-CXCR6",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CX3CL1-CX3CR1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CD274-PDCD1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","PDCD1LG2-PDCD1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CD80-CTLA4",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CD86-CTLA4",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CD80-CD28",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CD86-CD28",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","PVR-TIGIT",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","LGALS9-HAVCR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CD70-CD27",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","TNFSF9-TNFRSF9",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","TNFSF4-TNFRSF4",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","HLA-E-KLRC1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","HLA-E-KLRD1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CD40LG-CD40",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","IFNG-IFNGR1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","IFNG-IFNGR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","TNF-TNFRSF1A",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","TGFB1-TGFBR1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","TGFB1-TGFBR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","TGFB2-TGFBR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","IL6-IL6R",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","IL10-IL10RA",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","VEGFA-KDR",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","VEGFA-FLT1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","CSF1-CSF1R",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","IL34-CSF1R",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","MIF-CD74",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","MIF-CXCR4",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","MDK-LRP1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","SPP1-CD44",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","SPP1-ITGAV",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","WNT5A-FZD5",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","WNT5A-ROR2",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","FASLG-FAS",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","TNFSF10-TNFRSF10B",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","TNFSF10-TNFRSF10A",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","ICAM1-ITGB2",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","ICAM1-ITGAL",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","VCAM1-ITGA4",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","VCAM1-ITGB1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","GAS6-AXL",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","PROS1-AXL",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","HGF-MET",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","PDGFB-PDGFRB",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","ANXA1-FPR1",1,NA,NA,NA
+"Tirosh","malignant -> partner","CAF","LGALS3-LAG3",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CXCL9-CXCR3",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CXCL10-CXCR3",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CXCL11-CXCR3",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CCL5-CCR5",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CCL4-CCR5",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CCL3-CCR5",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CCL2-CCR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CCL19-CCR7",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CCL21-CCR7",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CXCL12-CXCR4",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CXCL13-CXCR5",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CXCL16-CXCR6",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CX3CL1-CX3CR1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CD274-PDCD1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","PDCD1LG2-PDCD1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CD80-CTLA4",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CD86-CTLA4",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CD80-CD28",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CD86-CD28",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","PVR-TIGIT",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","LGALS9-HAVCR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CD70-CD27",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","TNFSF9-TNFRSF9",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","TNFSF4-TNFRSF4",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","HLA-E-KLRC1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","HLA-E-KLRD1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CD40LG-CD40",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","IFNG-IFNGR1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","IFNG-IFNGR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","TNF-TNFRSF1A",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","TGFB1-TGFBR1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","TGFB1-TGFBR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","TGFB2-TGFBR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","IL6-IL6R",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","IL10-IL10RA",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","VEGFA-KDR",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","VEGFA-FLT1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","CSF1-CSF1R",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","IL34-CSF1R",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","MIF-CD74",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","MIF-CXCR4",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","MDK-LRP1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","SPP1-CD44",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","SPP1-ITGAV",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","WNT5A-FZD5",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","WNT5A-ROR2",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","FASLG-FAS",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","TNFSF10-TNFRSF10B",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","TNFSF10-TNFRSF10A",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","ICAM1-ITGB2",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","ICAM1-ITGAL",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","VCAM1-ITGA4",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","VCAM1-ITGB1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","GAS6-AXL",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","PROS1-AXL",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","HGF-MET",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","PDGFB-PDGFRB",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","ANXA1-FPR1",1,NA,NA,NA
+"Tirosh","partner -> malignant","CAF","LGALS3-LAG3",1,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CXCL9-CXCR3",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CXCL10-CXCR3",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CXCL11-CXCR3",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CCL5-CCR5",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CCL4-CCR5",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CCL3-CCR5",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CCL2-CCR2",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CCL19-CCR7",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CCL21-CCR7",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CXCL12-CXCR4",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CXCL13-CXCR5",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CXCL16-CXCR6",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CX3CL1-CX3CR1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CD274-PDCD1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","PDCD1LG2-PDCD1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CD80-CTLA4",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CD86-CTLA4",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CD80-CD28",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CD86-CD28",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","PVR-TIGIT",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","LGALS9-HAVCR2",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CD70-CD27",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","TNFSF9-TNFRSF9",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","TNFSF4-TNFRSF4",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","HLA-E-KLRC1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","HLA-E-KLRD1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CD40LG-CD40",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","IFNG-IFNGR1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","IFNG-IFNGR2",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","TNF-TNFRSF1A",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","TGFB1-TGFBR1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","TGFB1-TGFBR2",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","TGFB2-TGFBR2",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","IL6-IL6R",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","IL10-IL10RA",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","VEGFA-KDR",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","VEGFA-FLT1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","CSF1-CSF1R",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","IL34-CSF1R",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","MIF-CD74",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","MIF-CXCR4",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","MDK-LRP1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","SPP1-CD44",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","SPP1-ITGAV",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","WNT5A-FZD5",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","WNT5A-ROR2",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","FASLG-FAS",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","TNFSF10-TNFRSF10B",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","TNFSF10-TNFRSF10A",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","ICAM1-ITGB2",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","ICAM1-ITGAL",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","VCAM1-ITGA4",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","VCAM1-ITGB1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","GAS6-AXL",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","PROS1-AXL",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","HGF-MET",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","PDGFB-PDGFRB",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","ANXA1-FPR1",2,NA,NA,NA
+"Tirosh","malignant -> partner","Endothelial","LGALS3-LAG3",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CXCL9-CXCR3",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CXCL10-CXCR3",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CXCL11-CXCR3",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CCL5-CCR5",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CCL4-CCR5",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CCL3-CCR5",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CCL2-CCR2",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CCL19-CCR7",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CCL21-CCR7",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CXCL12-CXCR4",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CXCL13-CXCR5",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CXCL16-CXCR6",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CX3CL1-CX3CR1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CD274-PDCD1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","PDCD1LG2-PDCD1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CD80-CTLA4",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CD86-CTLA4",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CD80-CD28",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CD86-CD28",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","PVR-TIGIT",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","LGALS9-HAVCR2",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CD70-CD27",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","TNFSF9-TNFRSF9",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","TNFSF4-TNFRSF4",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","HLA-E-KLRC1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","HLA-E-KLRD1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CD40LG-CD40",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","IFNG-IFNGR1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","IFNG-IFNGR2",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","TNF-TNFRSF1A",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","TGFB1-TGFBR1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","TGFB1-TGFBR2",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","TGFB2-TGFBR2",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","IL6-IL6R",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","IL10-IL10RA",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","VEGFA-KDR",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","VEGFA-FLT1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","CSF1-CSF1R",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","IL34-CSF1R",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","MIF-CD74",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","MIF-CXCR4",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","MDK-LRP1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","SPP1-CD44",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","SPP1-ITGAV",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","WNT5A-FZD5",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","WNT5A-ROR2",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","FASLG-FAS",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","TNFSF10-TNFRSF10B",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","TNFSF10-TNFRSF10A",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","ICAM1-ITGB2",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","ICAM1-ITGAL",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","VCAM1-ITGA4",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","VCAM1-ITGB1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","GAS6-AXL",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","PROS1-AXL",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","HGF-MET",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","PDGFB-PDGFRB",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","ANXA1-FPR1",2,NA,NA,NA
+"Tirosh","partner -> malignant","Endothelial","LGALS3-LAG3",2,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CXCL9-CXCR3",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CXCL10-CXCR3",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CXCL11-CXCR3",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CCL5-CCR5",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CCL4-CCR5",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CCL3-CCR5",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CCL2-CCR2",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CCL19-CCR7",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CCL21-CCR7",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CXCL12-CXCR4",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CXCL13-CXCR5",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CXCL16-CXCR6",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CX3CL1-CX3CR1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CD274-PDCD1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","PDCD1LG2-PDCD1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CD80-CTLA4",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CD86-CTLA4",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CD80-CD28",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CD86-CD28",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","PVR-TIGIT",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","LGALS9-HAVCR2",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CD70-CD27",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","TNFSF9-TNFRSF9",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","TNFSF4-TNFRSF4",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","HLA-E-KLRC1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","HLA-E-KLRD1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CD40LG-CD40",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","IFNG-IFNGR1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","IFNG-IFNGR2",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","TNF-TNFRSF1A",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","TGFB1-TGFBR1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","TGFB1-TGFBR2",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","TGFB2-TGFBR2",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","IL6-IL6R",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","IL10-IL10RA",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","VEGFA-KDR",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","VEGFA-FLT1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","CSF1-CSF1R",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","IL34-CSF1R",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","MIF-CD74",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","MIF-CXCR4",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","MDK-LRP1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","SPP1-CD44",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","SPP1-ITGAV",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","WNT5A-FZD5",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","WNT5A-ROR2",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","FASLG-FAS",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","TNFSF10-TNFRSF10B",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","TNFSF10-TNFRSF10A",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","ICAM1-ITGB2",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","ICAM1-ITGAL",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","VCAM1-ITGA4",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","VCAM1-ITGB1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","GAS6-AXL",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","PROS1-AXL",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","HGF-MET",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","PDGFB-PDGFRB",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","ANXA1-FPR1",4,NA,NA,NA
+"Tirosh","malignant -> partner","B cell","LGALS3-LAG3",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CXCL9-CXCR3",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CXCL10-CXCR3",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CXCL11-CXCR3",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CCL5-CCR5",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CCL4-CCR5",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CCL3-CCR5",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CCL2-CCR2",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CCL19-CCR7",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CCL21-CCR7",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CXCL12-CXCR4",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CXCL13-CXCR5",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CXCL16-CXCR6",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CX3CL1-CX3CR1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CD274-PDCD1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","PDCD1LG2-PDCD1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CD80-CTLA4",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CD86-CTLA4",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CD80-CD28",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CD86-CD28",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","PVR-TIGIT",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","LGALS9-HAVCR2",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CD70-CD27",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","TNFSF9-TNFRSF9",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","TNFSF4-TNFRSF4",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","HLA-E-KLRC1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","HLA-E-KLRD1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CD40LG-CD40",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","IFNG-IFNGR1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","IFNG-IFNGR2",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","TNF-TNFRSF1A",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","TGFB1-TGFBR1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","TGFB1-TGFBR2",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","TGFB2-TGFBR2",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","IL6-IL6R",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","IL10-IL10RA",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","VEGFA-KDR",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","VEGFA-FLT1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","CSF1-CSF1R",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","IL34-CSF1R",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","MIF-CD74",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","MIF-CXCR4",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","MDK-LRP1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","SPP1-CD44",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","SPP1-ITGAV",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","WNT5A-FZD5",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","WNT5A-ROR2",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","FASLG-FAS",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","TNFSF10-TNFRSF10B",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","TNFSF10-TNFRSF10A",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","ICAM1-ITGB2",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","ICAM1-ITGAL",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","VCAM1-ITGA4",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","VCAM1-ITGB1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","GAS6-AXL",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","PROS1-AXL",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","HGF-MET",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","PDGFB-PDGFRB",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","ANXA1-FPR1",4,NA,NA,NA
+"Tirosh","partner -> malignant","B cell","LGALS3-LAG3",4,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","T cell","CXCL9-CXCR3",9,0.219089023002066,0.571145076672737,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CXCL10-CXCR3",9,0.252412601135762,0.512313721041929,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CXCL11-CXCR3",9,-0.00836827408755723,0.982953286833085,0.994796097517821
+"Jerby-Arnon","malignant -> partner","T cell","CCL5-CCR5",9,0.166666666666667,0.668231040071504,0.859630774805365
+"Jerby-Arnon","malignant -> partner","T cell","CCL4-CCR5",9,0.348155311911396,0.358535187276177,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CCL3-CCR5",9,0.419920627420627,0.260487622610721,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CCL2-CCR2",9,0.35,0.355819572501789,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CCL19-CCR7",9,-0.136930639376292,0.725369135954555,0.859630774805365
+"Jerby-Arnon","malignant -> partner","T cell","CCL21-CCR7",9,-0.365148371670111,0.333899140691533,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CXCL12-CXCR4",9,0.548344616260448,0.12635147384667,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CXCL13-CXCR5",9,0.251039505523201,0.51468867680936,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CXCL16-CXCR6",9,0.116666666666667,0.765007942926146,0.868387394672922
+"Jerby-Arnon","malignant -> partner","T cell","CX3CL1-CX3CR1",9,-0.0174077655955698,0.964546145166822,0.982083347806218
+"Jerby-Arnon","malignant -> partner","T cell","CD274-PDCD1",9,0.410045430290304,0.273029747143772,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","PDCD1LG2-PDCD1",9,0.400378608698105,0.285606535417444,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CD80-CTLA4",9,0.346551640041836,0.360904074566633,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CD86-CTLA4",9,0.346551640041836,0.360904074566633,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CD80-CD28",9,0.346551640041836,0.360904074566633,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CD86-CD28",9,0.346551640041836,0.360904074566633,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","PVR-TIGIT",9,0.283333333333333,0.46003032896572,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","LGALS9-HAVCR2",9,0.166666666666667,0.668231040071504,0.859630774805365
+"Jerby-Arnon","malignant -> partner","T cell","CD70-CD27",9,0.70747497011084,0.0330130782097257,0.628086034270779
+"Jerby-Arnon","malignant -> partner","T cell","TNFSF9-TNFRSF9",9,0.443518526640533,0.231784065299374,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","TNFSF4-TNFRSF4",9,0.271225401448324,0.480224692367622,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","HLA-E-KLRC1",9,0.401677156202747,0.283899976337995,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","HLA-E-KLRD1",9,0.516666666666667,0.154390120986225,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CD40LG-CD40",9,0.35,0.355819572501789,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","IFNG-IFNGR1",9,0.365148371670111,0.333899140691533,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","IFNG-IFNGR2",9,0.310376115919594,0.416291119055708,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","TNF-TNFRSF1A",9,0.255603860169077,0.506811000793762,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","TGFB1-TGFBR1",9,-0.502096445253434,0.16839743464432,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","TGFB1-TGFBR2",9,-0.45188680072809,0.222038773711396,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","TGFB2-TGFBR2",9,0.05,0.89835280435063,0.925909638839913
+"Jerby-Arnon","malignant -> partner","T cell","IL6-IL6R",9,0.288176989038844,0.452055614547963,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","IL10-IL10RA",9,0.35,0.355819572501789,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","VEGFA-KDR",9,0.169515875905203,0.662828040854944,0.859630774805365
+"Jerby-Arnon","malignant -> partner","T cell","VEGFA-FLT1",9,0.259416496714274,0.500268264250953,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","CSF1-CSF1R",9,0.147966007562343,0.704011727982183,0.859630774805365
+"Jerby-Arnon","malignant -> partner","T cell","IL34-CSF1R",9,-0.406838102172486,0.277169877770675,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","MIF-CD74",9,0.4,0.286105101908313,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","MIF-CXCR4",9,0.633333333333333,0.0670857868923456,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","MDK-LRP1",9,0.0669461927004578,0.864126671355177,0.905217777923966
+"Jerby-Arnon","malignant -> partner","T cell","SPP1-CD44",9,0.0666666666666667,0.864689784626204,0.905217777923966
+"Jerby-Arnon","malignant -> partner","T cell","SPP1-ITGAV",9,0.1,0.797971695234851,0.899726475164127
+"Jerby-Arnon","malignant -> partner","T cell","WNT5A-FZD5",9,0.339451429113611,0.371481997790389,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","WNT5A-ROR2",9,-0.296683051981965,0.438197803591287,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","FASLG-FAS",9,0.304635897922471,0.425413442875175,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","TNFSF10-TNFRSF10B",9,-0.466666666666667,0.205386351105812,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","TNFSF10-TNFRSF10A",9,-0.466666666666667,0.205386351105812,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","ICAM1-ITGB2",9,0.416666666666667,0.264586046747496,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","ICAM1-ITGAL",9,0.6,0.0876228290414023,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","VCAM1-ITGA4",9,-0.2,0.605901274179553,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","VCAM1-ITGB1",9,-0.233333333333333,0.545698778218273,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","GAS6-AXL",9,0.3,0.432845326709482,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","PROS1-AXL",9,0.533333333333333,0.139226867543978,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","HGF-MET",9,0.511207720338155,0.159555947643433,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","PDGFB-PDGFRB",9,0.310376115919594,0.416291119055708,0.831783553041431
+"Jerby-Arnon","malignant -> partner","T cell","ANXA1-FPR1",9,0.118661113133642,0.761084066531758,0.868387394672922
+"Jerby-Arnon","malignant -> partner","T cell","LGALS3-LAG3",9,0.133333333333333,0.732367505236297,0.859630774805365
+"Jerby-Arnon","partner -> malignant","T cell","CXCL9-CXCR3",9,0.200831604418561,0.60437217167933,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CXCL10-CXCR3",9,0.346551640041836,0.360904074566633,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CXCL11-CXCR3",9,0.251039505523201,0.51468867680936,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CCL5-CCR5",9,0.40908249149589,0.274269322287017,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CCL4-CCR5",9,0.443898022687029,0.231337183705852,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CCL3-CCR5",9,0.443898022687029,0.231337183705852,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CCL2-CCR2",9,0.306945738322769,0.42173196990114,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CCL19-CCR7",9,0.433613691358257,0.24361299212639,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CCL21-CCR7",9,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","T cell","CXCL12-CXCR4",9,0.419920627420627,0.260487622610721,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CXCL13-CXCR5",9,0.292118697336089,0.445610480736382,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CXCL16-CXCR6",9,0.457692864944047,0.21541170296009,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CX3CL1-CX3CR1",9,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","T cell","CD274-PDCD1",9,0.237322226267284,0.538651441425737,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","PDCD1LG2-PDCD1",9,0.287228132326901,0.453613096513376,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CD80-CTLA4",9,0.584237394672177,0.0985360426084856,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CD86-CTLA4",9,0.306945738322769,0.42173196990114,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CD80-CD28",9,0.476991622990762,0.194179176065066,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CD86-CD28",9,0.410045430290304,0.273029747143772,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","PVR-TIGIT",9,0.235004835540192,0.542741407772317,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","LGALS9-HAVCR2",9,0.45,0.224216107492337,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CD70-CD27",9,0.0585779186129006,0.881006750146876,0.938214980675894
+"Jerby-Arnon","partner -> malignant","T cell","TNFSF9-TNFRSF9",9,0.183333333333333,0.636819811762894,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","TNFSF4-TNFRSF4",9,0.0547722557505166,0.888697453194698,0.940299240799552
+"Jerby-Arnon","partner -> malignant","T cell","HLA-E-KLRC1",9,0.0508547627715608,0.896622545113034,0.942603188452164
+"Jerby-Arnon","partner -> malignant","T cell","HLA-E-KLRD1",9,0.45,0.224216107492337,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CD40LG-CD40",9,-0.0920510149631295,0.813794310413029,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","IFNG-IFNGR1",9,0.5,0.170470660787054,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","IFNG-IFNGR2",9,0.25,0.516489552301226,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","TNF-TNFRSF1A",9,-0.483333333333333,0.187469855215542,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","TGFB1-TGFBR1",9,0.343099237589846,0.366029243023804,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","TGFB1-TGFBR2",9,0.0833333333333333,0.831214097710308,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","TGFB2-TGFBR2",9,0.0957427107756338,0.806438342493469,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","IL6-IL6R",9,0.168325082306035,0.665084540880359,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","IL10-IL10RA",9,0.687606741025007,0.0406608482906333,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","VEGFA-KDR",9,0.319504825211347,0.401968584357824,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","VEGFA-FLT1",9,0.319504825211347,0.401968584357824,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","CSF1-CSF1R",9,0.284521318976946,0.458068843705731,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","IL34-CSF1R",9,0.355983339400925,0.34708012239835,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","MIF-CD74",9,-0.0166666666666667,0.966054803994686,0.990206174094553
+"Jerby-Arnon","partner -> malignant","T cell","MIF-CXCR4",9,0.45,0.224216107492337,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","MDK-LRP1",9,0.135612700724162,0.72793110279068,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","SPP1-CD44",9,0.476991622990762,0.194179176065066,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","SPP1-ITGAV",9,0.376572333940075,0.317822681698524,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","WNT5A-FZD5",9,0.470009671080384,0.201719267806669,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","WNT5A-ROR2",9,0.383405790253616,0.308396070956081,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","FASLG-FAS",9,0.116666666666667,0.765007942926146,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","TNFSF10-TNFRSF10B",9,0.3,0.432845326709482,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","TNFSF10-TNFRSF10A",9,0.216666666666667,0.575514895711926,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","ICAM1-ITGB2",9,0.251048222626717,0.514673585580497,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","ICAM1-ITGAL",9,0.383333333333333,0.308495272380372,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","VCAM1-ITGA4",9,0.217597069944622,0.573835059713397,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","VCAM1-ITGB1",9,0.283333333333333,0.46003032896572,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","GAS6-AXL",9,0,1,1
+"Jerby-Arnon","partner -> malignant","T cell","PROS1-AXL",9,0.198029508595335,0.609529772569205,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","HGF-MET",9,0.554482624066938,0.121299125722456,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","PDGFB-PDGFRB",9,-0.200831604418561,0.60437217167933,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","ANXA1-FPR1",9,0.310376115919594,0.416291119055708,0.935645266257544
+"Jerby-Arnon","partner -> malignant","T cell","LGALS3-LAG3",9,0.443898022687029,0.231337183705852,0.935645266257544
+"Jerby-Arnon","malignant -> partner","Macrophage","CXCL9-CXCR3",5,0.410391340834062,0.492535781702798,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CXCL10-CXCR3",5,0.8,0.104088038661828,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CXCL11-CXCR3",5,0.8,0.104088038661828,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CCL5-CCR5",5,0.8,0.104088038661828,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CCL4-CCR5",5,0.3,0.623837664781073,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CCL3-CCR5",5,0.5,0.391002218955771,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CCL2-CCR2",5,0.6,0.284756979865294,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CCL19-CCR7",5,-0.707106781186547,0.181690113816209,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CCL21-CCR7",5,0,1,1
+"Jerby-Arnon","malignant -> partner","Macrophage","CXCL12-CXCR4",5,-0.1,0.872888571569538,0.905217777923966
+"Jerby-Arnon","malignant -> partner","Macrophage","CXCL13-CXCR5",5,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","Macrophage","CXCL16-CXCR6",5,0.9,0.0373860734684988,0.628086034270779
+"Jerby-Arnon","malignant -> partner","Macrophage","CX3CL1-CX3CR1",5,0.7,0.188120404374187,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CD274-PDCD1",5,-0.2,0.747060078104662,0.859630774805365
+"Jerby-Arnon","malignant -> partner","Macrophage","PDCD1LG2-PDCD1",5,0.1,0.872888571569538,0.905217777923966
+"Jerby-Arnon","malignant -> partner","Macrophage","CD80-CTLA4",5,0.410391340834062,0.492535781702798,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CD86-CTLA4",5,0.410391340834062,0.492535781702798,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CD80-CD28",5,0.205195670417031,0.740581941591072,0.859630774805365
+"Jerby-Arnon","malignant -> partner","Macrophage","CD86-CD28",5,0.205195670417031,0.740581941591072,0.859630774805365
+"Jerby-Arnon","malignant -> partner","Macrophage","PVR-TIGIT",5,0.2,0.747060078104662,0.859630774805365
+"Jerby-Arnon","malignant -> partner","Macrophage","LGALS9-HAVCR2",5,-0.1,0.872888571569538,0.905217777923966
+"Jerby-Arnon","malignant -> partner","Macrophage","CD70-CD27",5,0.707106781186547,0.181690113816209,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","TNFSF9-TNFRSF9",5,0.9,0.0373860734684988,0.628086034270779
+"Jerby-Arnon","malignant -> partner","Macrophage","TNFSF4-TNFRSF4",5,-0.447213595499958,0.450184855752101,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","HLA-E-KLRC1",5,-0.2,0.747060078104662,0.859630774805365
+"Jerby-Arnon","malignant -> partner","Macrophage","HLA-E-KLRD1",5,1,3.97186241008171e-24,1.33454576978746e-22
+"Jerby-Arnon","malignant -> partner","Macrophage","CD40LG-CD40",5,0.4,0.504631575468691,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","IFNG-IFNGR1",5,0.1,0.872888571569538,0.905217777923966
+"Jerby-Arnon","malignant -> partner","Macrophage","IFNG-IFNGR2",5,0.1,0.872888571569538,0.905217777923966
+"Jerby-Arnon","malignant -> partner","Macrophage","TNF-TNFRSF1A",5,-0.1,0.872888571569538,0.905217777923966
+"Jerby-Arnon","malignant -> partner","Macrophage","TGFB1-TGFBR1",5,-0.3,0.623837664781073,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","TGFB1-TGFBR2",5,0.3,0.623837664781073,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","TGFB2-TGFBR2",5,0.7,0.188120404374187,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","IL6-IL6R",5,0.974679434480896,0.00481823046819854,0.134910453109559
+"Jerby-Arnon","malignant -> partner","Macrophage","IL10-IL10RA",5,0.6,0.284756979865294,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","VEGFA-KDR",5,-0.5,0.391002218955771,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","VEGFA-FLT1",5,0.8,0.104088038661828,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","CSF1-CSF1R",5,0.9,0.0373860734684988,0.628086034270779
+"Jerby-Arnon","malignant -> partner","Macrophage","IL34-CSF1R",5,0.6,0.284756979865294,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","MIF-CD74",5,-0.5,0.391002218955771,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","MIF-CXCR4",5,0.5,0.391002218955771,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","MDK-LRP1",5,-0.7,0.188120404374188,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","SPP1-CD44",5,-0.3,0.623837664781073,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","SPP1-ITGAV",5,-0.5,0.391002218955771,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","WNT5A-FZD5",5,-0.670820393249937,0.21516994256955,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","WNT5A-ROR2",5,-0.707106781186547,0.181690113816209,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","FASLG-FAS",5,0.3,0.623837664781073,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","TNFSF10-TNFRSF10B",5,0.7,0.188120404374187,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","TNFSF10-TNFRSF10A",5,0.5,0.391002218955771,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","ICAM1-ITGB2",5,1,3.97186241008171e-24,1.33454576978746e-22
+"Jerby-Arnon","malignant -> partner","Macrophage","ICAM1-ITGAL",5,1,3.97186241008171e-24,1.33454576978746e-22
+"Jerby-Arnon","malignant -> partner","Macrophage","VCAM1-ITGA4",5,0.2,0.747060078104662,0.859630774805365
+"Jerby-Arnon","malignant -> partner","Macrophage","VCAM1-ITGB1",5,0.2,0.747060078104662,0.859630774805365
+"Jerby-Arnon","malignant -> partner","Macrophage","GAS6-AXL",5,1,3.97186241008171e-24,1.33454576978746e-22
+"Jerby-Arnon","malignant -> partner","Macrophage","PROS1-AXL",5,0.5,0.391002218955771,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","HGF-MET",5,0.3,0.623837664781073,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","PDGFB-PDGFRB",5,-0.707106781186547,0.181690113816209,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","ANXA1-FPR1",5,0.3,0.623837664781073,0.831783553041431
+"Jerby-Arnon","malignant -> partner","Macrophage","LGALS3-LAG3",5,-0.66688592885535,0.218893981313232,0.831783553041431
+"Jerby-Arnon","partner -> malignant","Macrophage","CXCL9-CXCR3",5,0.205195670417031,0.740581941591072,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CXCL10-CXCR3",5,0.205195670417031,0.740581941591072,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CXCL11-CXCR3",5,0.205195670417031,0.740581941591072,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CCL5-CCR5",5,0,1,1
+"Jerby-Arnon","partner -> malignant","Macrophage","CCL4-CCR5",5,-0.2,0.747060078104662,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CCL3-CCR5",5,-0.2,0.747060078104662,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CCL2-CCR2",5,-0.2,0.747060078104662,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CCL19-CCR7",5,0.707106781186547,0.181690113816209,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CCL21-CCR7",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","Macrophage","CXCL12-CXCR4",5,0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CXCL13-CXCR5",5,-0.707106781186547,0.181690113816209,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CXCL16-CXCR6",5,0.5,0.391002218955771,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CX3CL1-CX3CR1",5,0.670820393249937,0.21516994256955,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CD274-PDCD1",5,0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","PDCD1LG2-PDCD1",5,0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CD80-CTLA4",5,0.205195670417031,0.740581941591072,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CD86-CTLA4",5,0.410391340834062,0.492535781702798,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CD80-CD28",5,0.3,0.623837664781073,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CD86-CD28",5,0.9,0.0373860734684988,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","PVR-TIGIT",5,0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","LGALS9-HAVCR2",5,0.7,0.188120404374187,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CD70-CD27",5,-0.564288093646835,0.3217233358243,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","TNFSF9-TNFRSF9",5,0.6,0.284756979865294,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","TNFSF4-TNFRSF4",5,0.359092423229804,0.552814746643351,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","HLA-E-KLRC1",5,-0.3,0.623837664781073,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","HLA-E-KLRD1",5,0.9,0.0373860734684988,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CD40LG-CD40",5,-0.0512989176042577,0.934712848108234,0.964106333897801
+"Jerby-Arnon","partner -> malignant","Macrophage","IFNG-IFNGR1",5,0.0512989176042577,0.934712848108234,0.964106333897801
+"Jerby-Arnon","partner -> malignant","Macrophage","IFNG-IFNGR2",5,0.0512989176042577,0.934712848108234,0.964106333897801
+"Jerby-Arnon","partner -> malignant","Macrophage","TNF-TNFRSF1A",5,-0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","TGFB1-TGFBR1",5,-0.4,0.504631575468691,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","TGFB1-TGFBR2",5,0.6,0.284756979865294,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","TGFB2-TGFBR2",5,-0.782623792124926,0.117613760873458,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","IL6-IL6R",5,-0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","IL10-IL10RA",5,0.3,0.623837664781073,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","VEGFA-KDR",5,-0.2,0.747060078104662,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","VEGFA-FLT1",5,-0.5,0.391002218955771,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","CSF1-CSF1R",5,-0.7,0.188120404374188,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","IL34-CSF1R",5,-0.670820393249937,0.21516994256955,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","MIF-CD74",5,0.3,0.623837664781073,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","MIF-CXCR4",5,0.3,0.623837664781073,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","MDK-LRP1",5,-0.3,0.623837664781073,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","SPP1-CD44",5,0.3,0.623837664781073,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","SPP1-ITGAV",5,0.2,0.747060078104662,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","WNT5A-FZD5",5,-0.111803398874989,0.857944617605099,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","WNT5A-ROR2",5,-0.707106781186547,0.181690113816209,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","FASLG-FAS",5,-0.111803398874989,0.857944617605099,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","TNFSF10-TNFRSF10B",5,-0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","TNFSF10-TNFRSF10A",5,0.7,0.188120404374187,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","ICAM1-ITGB2",5,0.6,0.284756979865294,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","ICAM1-ITGAL",5,-0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","VCAM1-ITGA4",5,-0.4,0.504631575468691,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","VCAM1-ITGB1",5,-0.4,0.504631575468691,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","GAS6-AXL",5,0.5,0.391002218955771,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","PROS1-AXL",5,-1,1.12341233764349e-23,1.84239623373533e-21
+"Jerby-Arnon","partner -> malignant","Macrophage","HGF-MET",5,0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","PDGFB-PDGFRB",5,-0.4,0.504631575468691,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","ANXA1-FPR1",5,0.3,0.623837664781073,0.935645266257544
+"Jerby-Arnon","partner -> malignant","Macrophage","LGALS3-LAG3",5,-0.3,0.623837664781073,0.935645266257544
+"Jerby-Arnon","malignant -> partner","B cell","CXCL9-CXCR3",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CXCL10-CXCR3",5,0.335410196624968,0.581090672821711,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CXCL11-CXCR3",5,-0.153896752812773,0.804828816608063,0.901408274601031
+"Jerby-Arnon","malignant -> partner","B cell","CCL5-CCR5",5,0.111803398874989,0.857944617605099,0.905217777923966
+"Jerby-Arnon","malignant -> partner","B cell","CCL4-CCR5",5,0.111803398874989,0.857944617605099,0.905217777923966
+"Jerby-Arnon","malignant -> partner","B cell","CCL3-CCR5",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CCL2-CCR2",5,0.223606797749979,0.717685644210786,0.859630774805365
+"Jerby-Arnon","malignant -> partner","B cell","CCL19-CCR7",5,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","B cell","CCL21-CCR7",5,-0.707106781186547,0.181690113816209,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CXCL12-CXCR4",5,0.564288093646835,0.3217233358243,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CXCL13-CXCR5",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CXCL16-CXCR6",5,0.111803398874989,0.857944617605099,0.905217777923966
+"Jerby-Arnon","malignant -> partner","B cell","CX3CL1-CX3CR1",5,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","B cell","CD274-PDCD1",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","PDCD1LG2-PDCD1",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CD80-CTLA4",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CD86-CTLA4",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CD80-CD28",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CD86-CD28",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","PVR-TIGIT",5,-0.205195670417031,0.740581941591072,0.859630774805365
+"Jerby-Arnon","malignant -> partner","B cell","LGALS9-HAVCR2",5,0.2,0.747060078104662,0.859630774805365
+"Jerby-Arnon","malignant -> partner","B cell","CD70-CD27",5,0.782623792124926,0.117613760873458,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","TNFSF9-TNFRSF9",5,0.564288093646835,0.3217233358243,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","TNFSF4-TNFRSF4",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","HLA-E-KLRC1",5,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","B cell","HLA-E-KLRD1",5,0.6,0.284756979865294,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CD40LG-CD40",5,0.6,0.284756979865294,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","IFNG-IFNGR1",5,0.335410196624968,0.581090672821711,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","IFNG-IFNGR2",5,0.335410196624968,0.581090672821711,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","TNF-TNFRSF1A",5,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","B cell","TGFB1-TGFBR1",5,-0.615587011251092,0.268997770115822,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","TGFB1-TGFBR2",5,-0.7,0.188120404374188,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","TGFB2-TGFBR2",5,0.1,0.872888571569538,0.905217777923966
+"Jerby-Arnon","malignant -> partner","B cell","IL6-IL6R",5,0.5,0.391002218955771,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","IL10-IL10RA",5,0,1,1
+"Jerby-Arnon","malignant -> partner","B cell","VEGFA-KDR",5,0.223606797749979,0.717685644210786,0.859630774805365
+"Jerby-Arnon","malignant -> partner","B cell","VEGFA-FLT1",5,0.564288093646835,0.3217233358243,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","CSF1-CSF1R",5,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","B cell","IL34-CSF1R",5,-0.707106781186547,0.181690113816209,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","MIF-CD74",5,0.6,0.284756979865294,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","MIF-CXCR4",5,0.7,0.188120404374187,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","MDK-LRP1",5,0.223606797749979,0.717685644210786,0.859630774805365
+"Jerby-Arnon","malignant -> partner","B cell","SPP1-CD44",5,0.3,0.623837664781073,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","SPP1-ITGAV",5,-0.718184846459608,0.171795304907989,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","WNT5A-FZD5",5,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","B cell","WNT5A-ROR2",5,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","B cell","FASLG-FAS",5,0.0512989176042577,0.934712848108234,0.957510722452337
+"Jerby-Arnon","malignant -> partner","B cell","TNFSF10-TNFRSF10B",5,-0.5,0.391002218955771,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","TNFSF10-TNFRSF10A",5,-0.3,0.623837664781073,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","ICAM1-ITGB2",5,0.2,0.747060078104662,0.859630774805365
+"Jerby-Arnon","malignant -> partner","B cell","ICAM1-ITGAL",5,0.2,0.747060078104662,0.859630774805365
+"Jerby-Arnon","malignant -> partner","B cell","VCAM1-ITGA4",5,-0.4,0.504631575468691,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","VCAM1-ITGB1",5,-0.4,0.504631575468691,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","GAS6-AXL",5,0.4,0.504631575468691,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","PROS1-AXL",5,1,3.97186241008171e-24,1.33454576978746e-22
+"Jerby-Arnon","malignant -> partner","B cell","HGF-MET",5,0.335410196624968,0.581090672821711,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","PDGFB-PDGFRB",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","malignant -> partner","B cell","ANXA1-FPR1",5,NA,NA,NA
+"Jerby-Arnon","malignant -> partner","B cell","LGALS3-LAG3",5,0.353553390593274,0.559404344163488,0.831783553041431
+"Jerby-Arnon","partner -> malignant","B cell","CXCL9-CXCR3",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","B cell","CXCL10-CXCR3",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CXCL11-CXCR3",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CCL5-CCR5",5,0.335410196624968,0.581090672821711,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CCL4-CCR5",5,0.335410196624968,0.581090672821711,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CCL3-CCR5",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CCL2-CCR2",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","B cell","CCL19-CCR7",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","B cell","CCL21-CCR7",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","B cell","CXCL12-CXCR4",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CXCL13-CXCR5",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CXCL16-CXCR6",5,0.66688592885535,0.218893981313232,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CX3CL1-CX3CR1",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","B cell","CD274-PDCD1",5,0.335410196624968,0.581090672821711,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","PDCD1LG2-PDCD1",5,0.335410196624968,0.581090672821711,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CD80-CTLA4",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CD86-CTLA4",5,0.782623792124926,0.117613760873458,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CD80-CD28",5,0.205195670417031,0.740581941591072,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CD86-CD28",5,-0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","PVR-TIGIT",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","LGALS9-HAVCR2",5,0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CD70-CD27",5,0.5,0.391002218955771,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","TNFSF9-TNFRSF9",5,-0.2,0.747060078104662,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","TNFSF4-TNFRSF4",5,-0.153896752812773,0.804828816608063,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","HLA-E-KLRC1",5,0.111803398874989,0.857944617605099,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","HLA-E-KLRD1",5,-0.2,0.747060078104662,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","CD40LG-CD40",5,0.782623792124926,0.117613760873458,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","IFNG-IFNGR1",5,0.6,0.284756979865294,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","IFNG-IFNGR2",5,0,1,1
+"Jerby-Arnon","partner -> malignant","B cell","TNF-TNFRSF1A",5,-0.9,0.0373860734684987,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","TGFB1-TGFBR1",5,0.111803398874989,0.857944617605099,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","TGFB1-TGFBR2",5,-0.205195670417031,0.740581941591072,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","TGFB2-TGFBR2",5,-0.205195670417031,0.740581941591072,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","IL6-IL6R",5,-0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","IL10-IL10RA",5,0.872081599272381,0.0538542177275421,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","VEGFA-KDR",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","B cell","VEGFA-FLT1",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","B cell","CSF1-CSF1R",5,0.111803398874989,0.857944617605099,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","IL34-CSF1R",5,0.111803398874989,0.857944617605099,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","MIF-CD74",5,-0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","MIF-CXCR4",5,0.7,0.188120404374187,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","MDK-LRP1",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","SPP1-CD44",5,0.111803398874989,0.857944617605099,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","SPP1-ITGAV",5,0.111803398874989,0.857944617605099,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","WNT5A-FZD5",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","B cell","WNT5A-ROR2",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","B cell","FASLG-FAS",5,0.410391340834062,0.492535781702798,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","TNFSF10-TNFRSF10B",5,0.5,0.391002218955771,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","TNFSF10-TNFRSF10A",5,0.2,0.747060078104662,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","ICAM1-ITGB2",5,0,1,1
+"Jerby-Arnon","partner -> malignant","B cell","ICAM1-ITGAL",5,0.2,0.747060078104662,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","VCAM1-ITGA4",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","VCAM1-ITGB1",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","GAS6-AXL",5,-0.1,0.872888571569538,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","PROS1-AXL",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","HGF-MET",5,-0.447213595499958,0.450184855752101,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","PDGFB-PDGFRB",5,NA,NA,NA
+"Jerby-Arnon","partner -> malignant","B cell","ANXA1-FPR1",5,0.353553390593274,0.559404344163488,0.935645266257544
+"Jerby-Arnon","partner -> malignant","B cell","LGALS3-LAG3",5,0.335410196624968,0.581090672821711,0.935645266257544
